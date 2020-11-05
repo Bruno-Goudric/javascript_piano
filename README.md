@@ -1,6 +1,6 @@
 # Piano com JavaScript - Estudos
 
-![](src/imagens/capa.png)
+![](/imagens/capa.png)
 
 
 
